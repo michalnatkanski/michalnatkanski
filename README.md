@@ -1,7 +1,6 @@
 ### Hello I'm Michal :)
 
-#### Front-end Developer with 3 years commercial experience, React Native enthusiast, eager to develop mobile applications
-
+#### Front-end Developer with 3 years of commercial experience. I am a React Native enthusiast - currently focused on broadening my knowledge of mobile apps development.
 ---
 
 ---
