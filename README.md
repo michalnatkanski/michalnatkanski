@@ -8,8 +8,8 @@
 
 ### Contact with me
 
-[<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://img.icons8.com/fluency/344/apple-mail.png" />][mail]
+[<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://cdn.simpleicons.org/gmail" />][mail]
 
 <br />
 
