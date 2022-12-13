@@ -19,7 +19,6 @@
 <img align="left" alt="TypeScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
 
 <br />
 
@@ -27,7 +26,6 @@
 
 ### Databases:
 
-<img align="left" alt="Postgres" width="30px" src="https://logonoid.com/images/postgresql-logo.png" />
 <img align="left" alt="MySql" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" />
 <img align="left" alt="Stepzen" width="30px" src="https://avatars.githubusercontent.com/u/59582882?s=280&v=4" />
 
