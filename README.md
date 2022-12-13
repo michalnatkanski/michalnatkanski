@@ -21,6 +21,7 @@
 <img align="left" alt="HTML5" width="30px" src="https://cdn.simpleicons.org/html5" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css3" />
 <img align="left" alt="SCSS" width="30px" src="https://cdn.simpleicons.org/sass" />
+<img align="left" alt="Tailwind" width="30px" src="https://cdn.simpleicons.org/tailwindcss" />
 
 <br />
 
