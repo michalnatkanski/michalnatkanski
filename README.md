@@ -1,5 +1,7 @@
 ### Hello I'm Michal :)
 
+## Front-end Developer with 3 years commercial experience, React Native enthusiast, eager to develop mobile applications
+
 ---
 
 ---
@@ -37,7 +39,7 @@
 
 ### Frameworks and libraries
 
-<img align="left" alt="React Native" width="30px" src="https://cdn.simpleicons.org/react" />
+<img align="left" alt="React Native" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.simpleicons.org/firebase" />
 <img align="left" alt="React" width="30px" src="https://cdn.simpleicons.org/react" />
 <img align="left" alt="Redux" width="30px" src="https://cdn.simpleicons.org/redux" />
