@@ -22,6 +22,7 @@
 <img align="left" alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css3" />
 <img align="left" alt="SCSS" width="30px" src="https://cdn.simpleicons.org/sass" />
 <img align="left" alt="Tailwind" width="30px" src="https://cdn.simpleicons.org/tailwindcss" />
+<img align="left" alt="Gatsby" width="30px" src="https://cdn.simpleicons.org/gatsby" />
 
 <br />
 
@@ -39,7 +40,7 @@
 
 ### Frameworks and libraries
 
-<img align="left" alt="React Native" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
+<img align="left" alt="React Native" width="45px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.simpleicons.org/firebase" />
 <img align="left" alt="React" width="30px" src="https://cdn.simpleicons.org/react" />
 <img align="left" alt="Redux" width="30px" src="https://cdn.simpleicons.org/redux" />
