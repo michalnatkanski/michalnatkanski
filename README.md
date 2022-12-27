@@ -1,11 +1,4 @@
-### Hello I'm Michal :)
-
-#### Front-end Developer with 3 years of commercial experience. I am a React Native enthusiast - currently focused on broadening my knowledge of mobile apps development.
----
-
----
-
-### Contact with me
+### Contact with me :)
 
 [<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://cdn.simpleicons.org/gmail" />][mail]
