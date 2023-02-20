@@ -1,4 +1,4 @@
-### Contact with me :)
+### Contact me :)
 
 [<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://cdn.simpleicons.org/gmail" />][mail]
